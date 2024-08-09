@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+      Normal     0.9900    0.9950    0.9925       200
+       Ulcer     0.9252    0.9900    0.9565       200
+      Polyps     0.9892    0.9150    0.9506       200
+ Esophagitis     0.9950    0.9950    0.9950       200
+
+    accuracy                         0.9738       800
+   macro avg     0.9749    0.9738    0.9737       800
+weighted avg     0.9749    0.9738    0.9737       800
